@@ -1,0 +1,7 @@
+scenario,input,required_output,workload,azure_service,human_owner,acceptance_evidence
+Product shelf check,image,objects and condition,,,,
+Customer feedback,text,theme and sentiment,,,,
+Call transcription,audio,transcript,,,,
+Receipt processing,document,structured fields,,,,
+Demand forecast,tabular data,numeric prediction,,,,
+Policy assistant,prompt plus documents,grounded answer,,,,

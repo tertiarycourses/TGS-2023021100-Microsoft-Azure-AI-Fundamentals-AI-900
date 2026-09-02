@@ -1,0 +1,7 @@
+actual_value,predicted_value,actual_class,predicted_class,split
+100,110,1,1,validation
+120,111,1,0,validation
+80,82,0,0,validation
+140,128,1,1,validation
+60,78,0,1,validation
+90,88,0,0,validation

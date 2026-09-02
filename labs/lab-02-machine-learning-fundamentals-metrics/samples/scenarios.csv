@@ -1,0 +1,4 @@
+scenario,predicted_output,technique,features,label,justification
+Daily demand,number,,,,
+Fraud review,category,,,,
+Customer segmentation,group,,,,

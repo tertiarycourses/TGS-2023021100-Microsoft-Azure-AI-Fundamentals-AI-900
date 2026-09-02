@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.claude/
+.codex/
+assessment/
+reference/
+qa/
+build/
+courseware/assets/generated/
+courseware/assets/ui/
+courseware/archive/
+.DS_Store
+**/.DS_Store
+*.tmp
+*.bak

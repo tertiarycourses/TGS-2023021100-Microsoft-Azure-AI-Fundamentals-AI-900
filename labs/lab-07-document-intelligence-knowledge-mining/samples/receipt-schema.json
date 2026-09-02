@@ -1,0 +1,45 @@
+{
+  "type": "object",
+  "required": [
+    "document_id",
+    "merchant_name",
+    "transaction_date",
+    "currency",
+    "total"
+  ],
+  "properties": {
+    "document_id": {
+      "type": "string"
+    },
+    "merchant_name": {
+      "type": "string"
+    },
+    "transaction_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "currency": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 3
+    },
+    "subtotal": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "tax": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "total": {
+      "type": "number"
+    },
+    "source_uri": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,1454 @@
+[
+  {
+    "new": 1,
+    "legacy": 1,
+    "title": "Microsoft Azure AI Fundamentals (AI-900)",
+    "type": "COVER"
+  },
+  {
+    "new": 2,
+    "legacy": 2,
+    "title": "Digital Attendance Is Mandatory",
+    "type": "ADMIN"
+  },
+  {
+    "new": 3,
+    "legacy": 3,
+    "title": "About the Trainer",
+    "type": "ADMIN"
+  },
+  {
+    "new": 4,
+    "legacy": 4,
+    "title": "Let's Know Each Other...",
+    "type": "ADMIN"
+  },
+  {
+    "new": 5,
+    "legacy": 5,
+    "title": "Ground Rules",
+    "type": "ADMIN"
+  },
+  {
+    "new": 6,
+    "legacy": 6,
+    "title": "Lesson Plan",
+    "type": "ADMIN"
+  },
+  {
+    "new": 7,
+    "legacy": 7,
+    "title": "Lesson Plan",
+    "type": "ADMIN"
+  },
+  {
+    "new": 8,
+    "legacy": 8,
+    "title": "Skills Framework and TSC",
+    "type": "ADMIN"
+  },
+  {
+    "new": 9,
+    "legacy": 9,
+    "title": "TSC Abilities and Knowledge",
+    "type": "ADMIN"
+  },
+  {
+    "new": 10,
+    "legacy": 10,
+    "title": "Learning Outcomes",
+    "type": "ADMIN"
+  },
+  {
+    "new": 11,
+    "legacy": 11,
+    "title": "Course Outline",
+    "type": "ADMIN"
+  },
+  {
+    "new": 12,
+    "legacy": 12,
+    "title": "Course Outline",
+    "type": "ADMIN"
+  },
+  {
+    "new": 13,
+    "legacy": 13,
+    "title": "Course Outline",
+    "type": "ADMIN"
+  },
+  {
+    "new": 14,
+    "legacy": 14,
+    "title": "Prerequisite",
+    "type": "ADMIN"
+  },
+  {
+    "new": 15,
+    "legacy": 15,
+    "title": "Final Assessment",
+    "type": "ADMIN"
+  },
+  {
+    "new": 16,
+    "legacy": 16,
+    "title": "Briefing for Assessment",
+    "type": "ADMIN"
+  },
+  {
+    "new": 17,
+    "legacy": 17,
+    "title": "Criteria for Funding",
+    "type": "ADMIN"
+  },
+  {
+    "new": 18,
+    "legacy": 18,
+    "title": "LMS/TMS https://lms-tms.tertiaryinfotech.com/",
+    "type": "ADMIN"
+  },
+  {
+    "new": 19,
+    "legacy": 19,
+    "title": "Topic 1 Get started with Artificial Intelligence",
+    "type": "SECTION"
+  },
+  {
+    "new": 20,
+    "legacy": 20,
+    "title": "Final AI-900 Skills Domains",
+    "type": "CONTENT"
+  },
+  {
+    "new": 21,
+    "legacy": 21,
+    "title": "What is AI?",
+    "type": "CONTENT"
+  },
+  {
+    "new": 22,
+    "legacy": 22,
+    "title": "Azure Machine Learning Service",
+    "type": "CONTENT"
+  },
+  {
+    "new": 23,
+    "legacy": 23,
+    "title": "Time-Series Anomaly Detection",
+    "type": "CONTENT"
+  },
+  {
+    "new": 24,
+    "legacy": 24,
+    "title": "Computer Vision Workloads",
+    "type": "CONTENT"
+  },
+  {
+    "new": 25,
+    "legacy": 25,
+    "title": "Image Classification",
+    "type": "CONTENT"
+  },
+  {
+    "new": 26,
+    "legacy": 26,
+    "title": "Object Detection",
+    "type": "CONTENT"
+  },
+  {
+    "new": 27,
+    "legacy": 27,
+    "title": "Semantic Segmentation",
+    "type": "CONTENT"
+  },
+  {
+    "new": 28,
+    "legacy": 28,
+    "title": "Composite Vision Solutions",
+    "type": "CONTENT"
+  },
+  {
+    "new": 29,
+    "legacy": 29,
+    "title": "Face Detection",
+    "type": "CONTENT"
+  },
+  {
+    "new": 30,
+    "legacy": 30,
+    "title": "Optical Character Recognition",
+    "type": "CONTENT"
+  },
+  {
+    "new": 31,
+    "legacy": 31,
+    "title": "Natural Language Processing",
+    "type": "CONTENT"
+  },
+  {
+    "new": 32,
+    "legacy": 32,
+    "title": "Natural Language Processing in Microsoft Azure",
+    "type": "CONTENT"
+  },
+  {
+    "new": 33,
+    "legacy": 33,
+    "title": "Microsoft AI Principles",
+    "type": "CONTENT"
+  },
+  {
+    "new": 34,
+    "legacy": 34,
+    "title": "Microsoft AI Principles",
+    "type": "CONTENT"
+  },
+  {
+    "new": 35,
+    "legacy": 35,
+    "title": "Fairness",
+    "type": "CONTENT"
+  },
+  {
+    "new": 36,
+    "legacy": 36,
+    "title": "Reliability and Safety",
+    "type": "CONTENT"
+  },
+  {
+    "new": 37,
+    "legacy": 37,
+    "title": "Privacy and Security",
+    "type": "CONTENT"
+  },
+  {
+    "new": 38,
+    "legacy": 38,
+    "title": "Inclusiveness",
+    "type": "CONTENT"
+  },
+  {
+    "new": 39,
+    "legacy": 39,
+    "title": "Transparency and Accountability",
+    "type": "CONTENT"
+  },
+  {
+    "new": 40,
+    "legacy": 40,
+    "title": "Conversational AI",
+    "type": "CONTENT"
+  },
+  {
+    "new": 41,
+    "legacy": 41,
+    "title": "Azure Conversational AI Services",
+    "type": "CONTENT"
+  },
+  {
+    "new": 42,
+    "legacy": null,
+    "title": "Lab 01: AI Workloads, Responsible AI, and Microsoft Foundry",
+    "type": "LAB"
+  },
+  {
+    "new": 43,
+    "legacy": 42,
+    "title": "Conversational AI",
+    "type": "CONTENT"
+  },
+  {
+    "new": 44,
+    "legacy": 43,
+    "title": "Foundation Models for Applications",
+    "type": "CONTENT"
+  },
+  {
+    "new": 45,
+    "legacy": 44,
+    "title": "Azure OpenAI",
+    "type": "CONTENT"
+  },
+  {
+    "new": 46,
+    "legacy": 45,
+    "title": "Grounding and Retrieval",
+    "type": "CONTENT"
+  },
+  {
+    "new": 47,
+    "legacy": 46,
+    "title": "Prompt, Model and Safety Controls",
+    "type": "CONTENT"
+  },
+  {
+    "new": 48,
+    "legacy": 47,
+    "title": "Microsoft Foundry model playground",
+    "type": "CONTENT"
+  },
+  {
+    "new": 49,
+    "legacy": 48,
+    "title": "GitHub Copilot",
+    "type": "CONTENT"
+  },
+  {
+    "new": 50,
+    "legacy": 49,
+    "title": "Code Completion from Context",
+    "type": "CONTENT"
+  },
+  {
+    "new": 51,
+    "legacy": 50,
+    "title": "GitHub Copilot Suggestion Controls",
+    "type": "CONTENT"
+  },
+  {
+    "new": 52,
+    "legacy": 51,
+    "title": "OpenAI's NLP Capabilities",
+    "type": "CONTENT"
+  },
+  {
+    "new": 53,
+    "legacy": 52,
+    "title": "Image Generation with Generative AI",
+    "type": "CONTENT"
+  },
+  {
+    "new": 54,
+    "legacy": null,
+    "title": "Lab 08: Generative AI and Agents in Microsoft Foundry",
+    "type": "LAB"
+  },
+  {
+    "new": 55,
+    "legacy": 53,
+    "title": "Knowledge Quiz - Fundamental AI Concepts",
+    "type": "CONTENT"
+  },
+  {
+    "new": 56,
+    "legacy": 54,
+    "title": "Knowledge Quiz - Fundamentals of machine learning",
+    "type": "CONTENT"
+  },
+  {
+    "new": 57,
+    "legacy": 55,
+    "title": "Knowledge Quiz - Fundamentals of Azure AI services",
+    "type": "CONTENT"
+  },
+  {
+    "new": 58,
+    "legacy": 56,
+    "title": "Topic 2 Explore Visual Tools For Machine Learning",
+    "type": "SECTION"
+  },
+  {
+    "new": 59,
+    "legacy": 57,
+    "title": "What is Machine Learning",
+    "type": "CONTENT"
+  },
+  {
+    "new": 60,
+    "legacy": 58,
+    "title": "Types of Machine Learning",
+    "type": "CONTENT"
+  },
+  {
+    "new": 61,
+    "legacy": 59,
+    "title": "Azure Machine Learning Studio",
+    "type": "CONTENT"
+  },
+  {
+    "new": 62,
+    "legacy": 60,
+    "title": "Azure Machine Learning Studio",
+    "type": "CONTENT"
+  },
+  {
+    "new": 63,
+    "legacy": 61,
+    "title": "Azure Machine Learning Compute",
+    "type": "CONTENT"
+  },
+  {
+    "new": 64,
+    "legacy": 62,
+    "title": "You can write and run your own code",
+    "type": "CONTENT"
+  },
+  {
+    "new": 65,
+    "legacy": 63,
+    "title": "Train Models with Azure Machine Learning Designer",
+    "type": "CONTENT"
+  },
+  {
+    "new": 66,
+    "legacy": 64,
+    "title": "Azure Machine Learning Designer",
+    "type": "CONTENT"
+  },
+  {
+    "new": 67,
+    "legacy": 65,
+    "title": "Pipelines",
+    "type": "CONTENT"
+  },
+  {
+    "new": 68,
+    "legacy": 66,
+    "title": "Pipelines",
+    "type": "CONTENT"
+  },
+  {
+    "new": 69,
+    "legacy": 67,
+    "title": "Components",
+    "type": "CONTENT"
+  },
+  {
+    "new": 70,
+    "legacy": 68,
+    "title": "Components",
+    "type": "CONTENT"
+  },
+  {
+    "new": 71,
+    "legacy": 69,
+    "title": "Create a Machine Learning Data Asset",
+    "type": "CONTENT"
+  },
+  {
+    "new": 72,
+    "legacy": 70,
+    "title": "Track Experiments with Machine Learning Jobs",
+    "type": "CONTENT"
+  },
+  {
+    "new": 73,
+    "legacy": 71,
+    "title": "Azure Machine Learning Jobs",
+    "type": "CONTENT"
+  },
+  {
+    "new": 74,
+    "legacy": 72,
+    "title": "Azure Machine Learning Jobs",
+    "type": "CONTENT"
+  },
+  {
+    "new": 75,
+    "legacy": null,
+    "title": "Lab 02: Machine Learning Fundamentals and Metrics",
+    "type": "LAB"
+  },
+  {
+    "new": 76,
+    "legacy": 73,
+    "title": "Regression",
+    "type": "CONTENT"
+  },
+  {
+    "new": 77,
+    "legacy": 74,
+    "title": "Regression Example",
+    "type": "CONTENT"
+  },
+  {
+    "new": 78,
+    "legacy": 75,
+    "title": "Regression Example",
+    "type": "CONTENT"
+  },
+  {
+    "new": 79,
+    "legacy": 76,
+    "title": "Inference Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 80,
+    "legacy": 77,
+    "title": "Automatic Price Prediction Regression",
+    "type": "CONTENT"
+  },
+  {
+    "new": 81,
+    "legacy": 78,
+    "title": "Add the Automobile Dataset",
+    "type": "CONTENT"
+  },
+  {
+    "new": 82,
+    "legacy": 79,
+    "title": "Transform the Automobile Dataset",
+    "type": "CONTENT"
+  },
+  {
+    "new": 83,
+    "legacy": 80,
+    "title": "Configure the Select Columns Module",
+    "type": "CONTENT"
+  },
+  {
+    "new": 84,
+    "legacy": 81,
+    "title": "Clean Missing Data",
+    "type": "CONTENT"
+  },
+  {
+    "new": 85,
+    "legacy": 82,
+    "title": "Normalize Data",
+    "type": "CONTENT"
+  },
+  {
+    "new": 86,
+    "legacy": 83,
+    "title": "Run the Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 87,
+    "legacy": 84,
+    "title": "Add Training Modules",
+    "type": "CONTENT"
+  },
+  {
+    "new": 88,
+    "legacy": 85,
+    "title": "Run the Training Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 89,
+    "legacy": 86,
+    "title": "Evaluate a Regression Model",
+    "type": "CONTENT"
+  },
+  {
+    "new": 90,
+    "legacy": 87,
+    "title": "Model Performance Metrics",
+    "type": "CONTENT"
+  },
+  {
+    "new": 91,
+    "legacy": 88,
+    "title": "Create an Inference Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 92,
+    "legacy": 89,
+    "title": "Deployment",
+    "type": "CONTENT"
+  },
+  {
+    "new": 93,
+    "legacy": 90,
+    "title": "Testing",
+    "type": "CONTENT"
+  },
+  {
+    "new": 94,
+    "legacy": 91,
+    "title": "Testing",
+    "type": "CONTENT"
+  },
+  {
+    "new": 95,
+    "legacy": null,
+    "title": "Lab 03: Azure Machine Learning AutoML and Model Lifecycle",
+    "type": "LAB"
+  },
+  {
+    "new": 96,
+    "legacy": 92,
+    "title": "Activity: Regression",
+    "type": "CONTENT"
+  },
+  {
+    "new": 97,
+    "legacy": 93,
+    "title": "Classification Fundamentals",
+    "type": "CONTENT"
+  },
+  {
+    "new": 98,
+    "legacy": 94,
+    "title": "Classification Example",
+    "type": "CONTENT"
+  },
+  {
+    "new": 99,
+    "legacy": 95,
+    "title": "Prepare Classification Data",
+    "type": "CONTENT"
+  },
+  {
+    "new": 100,
+    "legacy": 96,
+    "title": "Configure Normalization",
+    "type": "CONTENT"
+  },
+  {
+    "new": 101,
+    "legacy": 97,
+    "title": "Run the Data Transformation Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 102,
+    "legacy": 98,
+    "title": "Add Training Modules",
+    "type": "CONTENT"
+  },
+  {
+    "new": 103,
+    "legacy": 99,
+    "title": "Run the Training Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 104,
+    "legacy": 100,
+    "title": "Create an Inference Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 105,
+    "legacy": 101,
+    "title": "Open Evaluation Outputs",
+    "type": "CONTENT"
+  },
+  {
+    "new": 106,
+    "legacy": 102,
+    "title": "Confusion Matrix",
+    "type": "CONTENT"
+  },
+  {
+    "new": 107,
+    "legacy": 103,
+    "title": "Read a Confusion Matrix",
+    "type": "CONTENT"
+  },
+  {
+    "new": 108,
+    "legacy": 104,
+    "title": "Confusion Matrix Worked Example",
+    "type": "CONTENT"
+  },
+  {
+    "new": 109,
+    "legacy": 105,
+    "title": "Metrics",
+    "type": "CONTENT"
+  },
+  {
+    "new": 110,
+    "legacy": 106,
+    "title": "Accuracy",
+    "type": "CONTENT"
+  },
+  {
+    "new": 111,
+    "legacy": 107,
+    "title": "Precision",
+    "type": "CONTENT"
+  },
+  {
+    "new": 112,
+    "legacy": 108,
+    "title": "Recall or Sensitivity",
+    "type": "CONTENT"
+  },
+  {
+    "new": 113,
+    "legacy": 109,
+    "title": "Specificity",
+    "type": "CONTENT"
+  },
+  {
+    "new": 114,
+    "legacy": 110,
+    "title": "F1 Score",
+    "type": "CONTENT"
+  },
+  {
+    "new": 115,
+    "legacy": 111,
+    "title": "Threshold",
+    "type": "CONTENT"
+  },
+  {
+    "new": 116,
+    "legacy": 112,
+    "title": "Threshold",
+    "type": "CONTENT"
+  },
+  {
+    "new": 117,
+    "legacy": 113,
+    "title": "ROC",
+    "type": "CONTENT"
+  },
+  {
+    "new": 118,
+    "legacy": 114,
+    "title": "ROC",
+    "type": "CONTENT"
+  },
+  {
+    "new": 119,
+    "legacy": 115,
+    "title": "AUC",
+    "type": "CONTENT"
+  },
+  {
+    "new": 120,
+    "legacy": 116,
+    "title": "Activity: Classification",
+    "type": "CONTENT"
+  },
+  {
+    "new": 121,
+    "legacy": 117,
+    "title": "Iris Flower Dataset",
+    "type": "CONTENT"
+  },
+  {
+    "new": 122,
+    "legacy": 118,
+    "title": "Iris Flower Dataset",
+    "type": "CONTENT"
+  },
+  {
+    "new": 123,
+    "legacy": 119,
+    "title": "Hint for Activity",
+    "type": "CONTENT"
+  },
+  {
+    "new": 124,
+    "legacy": 120,
+    "title": "Clustering",
+    "type": "SECTION"
+  },
+  {
+    "new": 125,
+    "legacy": 121,
+    "title": "Clustering Example",
+    "type": "CONTENT"
+  },
+  {
+    "new": 126,
+    "legacy": 122,
+    "title": "Create a Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 127,
+    "legacy": 123,
+    "title": "Add Data Transformations",
+    "type": "CONTENT"
+  },
+  {
+    "new": 128,
+    "legacy": 124,
+    "title": "Select Columns",
+    "type": "CONTENT"
+  },
+  {
+    "new": 129,
+    "legacy": 125,
+    "title": "Clean Missing Data",
+    "type": "CONTENT"
+  },
+  {
+    "new": 130,
+    "legacy": 126,
+    "title": "Normalize Data",
+    "type": "CONTENT"
+  },
+  {
+    "new": 131,
+    "legacy": 127,
+    "title": "Run the Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 132,
+    "legacy": 128,
+    "title": "Add Training Modules",
+    "type": "CONTENT"
+  },
+  {
+    "new": 133,
+    "legacy": 129,
+    "title": "Run the Training Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 134,
+    "legacy": 130,
+    "title": "Evaluate a Clustering Model",
+    "type": "CONTENT"
+  },
+  {
+    "new": 135,
+    "legacy": 131,
+    "title": "Create an Inference Pipeline",
+    "type": "CONTENT"
+  },
+  {
+    "new": 136,
+    "legacy": 132,
+    "title": "Test the Service",
+    "type": "CONTENT"
+  },
+  {
+    "new": 137,
+    "legacy": 133,
+    "title": "What is Azure Automated Machine Learning?",
+    "type": "CONTENT"
+  },
+  {
+    "new": 138,
+    "legacy": 134,
+    "title": "Understand the AutoML process",
+    "type": "CONTENT"
+  },
+  {
+    "new": 139,
+    "legacy": 135,
+    "title": "Understand the AutoML process",
+    "type": "CONTENT"
+  },
+  {
+    "new": 140,
+    "legacy": 136,
+    "title": "Azure Machine Learning studio",
+    "type": "CONTENT"
+  },
+  {
+    "new": 141,
+    "legacy": 137,
+    "title": "Prepare data",
+    "type": "CONTENT"
+  },
+  {
+    "new": 142,
+    "legacy": 138,
+    "title": "Train model",
+    "type": "CONTENT"
+  },
+  {
+    "new": 143,
+    "legacy": 139,
+    "title": "Configuration",
+    "type": "CONTENT"
+  },
+  {
+    "new": 144,
+    "legacy": 140,
+    "title": "Additional Configuration",
+    "type": "CONTENT"
+  },
+  {
+    "new": 145,
+    "legacy": 141,
+    "title": "Additional Configuration",
+    "type": "CONTENT"
+  },
+  {
+    "new": 146,
+    "legacy": 142,
+    "title": "Auto ML Experiment",
+    "type": "CONTENT"
+  },
+  {
+    "new": 147,
+    "legacy": 143,
+    "title": "Auto ML Experiment",
+    "type": "CONTENT"
+  },
+  {
+    "new": 148,
+    "legacy": 144,
+    "title": "Evaluate Performance",
+    "type": "CONTENT"
+  },
+  {
+    "new": 149,
+    "legacy": 145,
+    "title": "Review Result",
+    "type": "CONTENT"
+  },
+  {
+    "new": 150,
+    "legacy": 146,
+    "title": "Model Summary",
+    "type": "CONTENT"
+  },
+  {
+    "new": 151,
+    "legacy": 147,
+    "title": "Review the Best Model",
+    "type": "CONTENT"
+  },
+  {
+    "new": 152,
+    "legacy": 148,
+    "title": "Deploy a Predictive Service",
+    "type": "CONTENT"
+  },
+  {
+    "new": 153,
+    "legacy": 149,
+    "title": "Deploy a Model as a Service",
+    "type": "CONTENT"
+  },
+  {
+    "new": 154,
+    "legacy": 150,
+    "title": "Deploy a Model as a Service",
+    "type": "CONTENT"
+  },
+  {
+    "new": 155,
+    "legacy": 151,
+    "title": "Topic 3 Explore Computer Vision",
+    "type": "CONTENT"
+  },
+  {
+    "new": 156,
+    "legacy": 152,
+    "title": "What is Computer Vision",
+    "type": "CONTENT"
+  },
+  {
+    "new": 157,
+    "legacy": 153,
+    "title": "Image Classification",
+    "type": "CONTENT"
+  },
+  {
+    "new": 158,
+    "legacy": 154,
+    "title": "Azure Resources for Computer Vision",
+    "type": "CONTENT"
+  },
+  {
+    "new": 159,
+    "legacy": 155,
+    "title": "Model Evaluation",
+    "type": "CONTENT"
+  },
+  {
+    "new": 160,
+    "legacy": 156,
+    "title": "Using the model for prediction",
+    "type": "CONTENT"
+  },
+  {
+    "new": 161,
+    "legacy": 157,
+    "title": "Object Detection Outputs",
+    "type": "CONTENT"
+  },
+  {
+    "new": 162,
+    "legacy": 158,
+    "title": "Face Detection Bounding Boxes",
+    "type": "CONTENT"
+  },
+  {
+    "new": 163,
+    "legacy": 159,
+    "title": "Facial Landmarks and Attributes",
+    "type": "CONTENT"
+  },
+  {
+    "new": 164,
+    "legacy": 160,
+    "title": "Face Identification and Responsible Use",
+    "type": "CONTENT"
+  },
+  {
+    "new": 165,
+    "legacy": 161,
+    "title": "Face Analysis in Azure",
+    "type": "CONTENT"
+  },
+  {
+    "new": 166,
+    "legacy": 162,
+    "title": "Legacy Face Lab Migration",
+    "type": "CONTENT"
+  },
+  {
+    "new": 167,
+    "legacy": 163,
+    "title": "Read API",
+    "type": "CONTENT"
+  },
+  {
+    "new": 168,
+    "legacy": 164,
+    "title": "Legacy OCR Lab Migration",
+    "type": "CONTENT"
+  },
+  {
+    "new": 169,
+    "legacy": 165,
+    "title": "Azure AI Document Intelligence",
+    "type": "CONTENT"
+  },
+  {
+    "new": 170,
+    "legacy": null,
+    "title": "Lab 04: Computer Vision, Image Analysis, and OCR",
+    "type": "LAB"
+  },
+  {
+    "new": 171,
+    "legacy": 166,
+    "title": "Pre-built Receipt Model",
+    "type": "CONTENT"
+  },
+  {
+    "new": 172,
+    "legacy": 167,
+    "title": "Knowledge Quiz - Fundamentals of Computer Vision",
+    "type": "CONTENT"
+  },
+  {
+    "new": 173,
+    "legacy": 168,
+    "title": "Knowledge Quiz - Fundamentals of Facial Recognition",
+    "type": "CONTENT"
+  },
+  {
+    "new": 174,
+    "legacy": 169,
+    "title": "Knowledge Quiz - Fundamentals of optical character recognition",
+    "type": "SECTION"
+  },
+  {
+    "new": 175,
+    "legacy": 170,
+    "title": "Topic 4 Explore Natural Language Processing",
+    "type": "CONTENT"
+  },
+  {
+    "new": 176,
+    "legacy": 171,
+    "title": "Natural Language Processing",
+    "type": "CONTENT"
+  },
+  {
+    "new": 177,
+    "legacy": 172,
+    "title": "Language Detection",
+    "type": "CONTENT"
+  },
+  {
+    "new": 178,
+    "legacy": 173,
+    "title": "Sentiment Analysis",
+    "type": "CONTENT"
+  },
+  {
+    "new": 179,
+    "legacy": 174,
+    "title": "Key Phrase Extraction",
+    "type": "CONTENT"
+  },
+  {
+    "new": 180,
+    "legacy": 175,
+    "title": "Named-Entity Recognition",
+    "type": "CONTENT"
+  },
+  {
+    "new": 181,
+    "legacy": 176,
+    "title": "Text Analysis Lab",
+    "type": "CONTENT"
+  },
+  {
+    "new": 182,
+    "legacy": 177,
+    "title": "Speech Recognition",
+    "type": "CONTENT"
+  },
+  {
+    "new": 183,
+    "legacy": 178,
+    "title": "Speech Synthesis",
+    "type": "CONTENT"
+  },
+  {
+    "new": 184,
+    "legacy": 179,
+    "title": "Speech Service",
+    "type": "CONTENT"
+  },
+  {
+    "new": 185,
+    "legacy": 180,
+    "title": "Speech-to-Text API",
+    "type": "CONTENT"
+  },
+  {
+    "new": 186,
+    "legacy": null,
+    "title": "Lab 05: Language: Text Analysis, PII, and Clean Inputs",
+    "type": "LAB"
+  },
+  {
+    "new": 187,
+    "legacy": 181,
+    "title": "Text-to-Speech API",
+    "type": "CONTENT"
+  },
+  {
+    "new": 188,
+    "legacy": 182,
+    "title": "Speech Lab",
+    "type": "CONTENT"
+  },
+  {
+    "new": 189,
+    "legacy": 183,
+    "title": "Text and Speech Translation",
+    "type": "CONTENT"
+  },
+  {
+    "new": 190,
+    "legacy": 184,
+    "title": "Conversational Language Lab",
+    "type": "CONTENT"
+  },
+  {
+    "new": 191,
+    "legacy": 185,
+    "title": "Conversational language understanding",
+    "type": "CONTENT"
+  },
+  {
+    "new": 192,
+    "legacy": 186,
+    "title": "Legacy LUIS Lab Migration",
+    "type": "CONTENT"
+  },
+  {
+    "new": 193,
+    "legacy": 187,
+    "title": "Human Conversations as Language Data",
+    "type": "CONTENT"
+  },
+  {
+    "new": 194,
+    "legacy": 188,
+    "title": "Conversational AI",
+    "type": "CONTENT"
+  },
+  {
+    "new": 195,
+    "legacy": 189,
+    "title": "Question Answering and Azure Bot Service",
+    "type": "CONTENT"
+  },
+  {
+    "new": 196,
+    "legacy": 190,
+    "title": "Azure Custom question answering",
+    "type": "CONTENT"
+  },
+  {
+    "new": 197,
+    "legacy": 191,
+    "title": "Legacy Language Understanding Lab",
+    "type": "CONTENT"
+  },
+  {
+    "new": 198,
+    "legacy": 192,
+    "title": "Define questions and answers",
+    "type": "CONTENT"
+  },
+  {
+    "new": 199,
+    "legacy": 193,
+    "title": "Test the Knowledge Base",
+    "type": "CONTENT"
+  },
+  {
+    "new": 200,
+    "legacy": 194,
+    "title": "Use the knowledge base",
+    "type": "CONTENT"
+  },
+  {
+    "new": 201,
+    "legacy": 195,
+    "title": "Legacy QnA Bot Lab Migration",
+    "type": "CONTENT"
+  },
+  {
+    "new": 202,
+    "legacy": 196,
+    "title": "Build a bot with the Azure Bot Service",
+    "type": "CONTENT"
+  },
+  {
+    "new": 203,
+    "legacy": 197,
+    "title": "Conversational Language Understanding",
+    "type": "CONTENT"
+  },
+  {
+    "new": 204,
+    "legacy": 198,
+    "title": "Utterances",
+    "type": "CONTENT"
+  },
+  {
+    "new": 205,
+    "legacy": 199,
+    "title": "Entities",
+    "type": "CONTENT"
+  },
+  {
+    "new": 206,
+    "legacy": 200,
+    "title": "Intents",
+    "type": "CONTENT"
+  },
+  {
+    "new": 207,
+    "legacy": null,
+    "title": "Lab 06: Speech, Translation, and Conversational AI",
+    "type": "LAB"
+  },
+  {
+    "new": 208,
+    "legacy": 201,
+    "title": "Azure AI Language Capability",
+    "type": "CONTENT"
+  },
+  {
+    "new": 209,
+    "legacy": 202,
+    "title": "Azure AI Language Capability",
+    "type": "CONTENT"
+  },
+  {
+    "new": 210,
+    "legacy": 203,
+    "title": "Knowledge Quiz - Fundamentals of conversational language understanding",
+    "type": "CONTENT"
+  },
+  {
+    "new": 211,
+    "legacy": 204,
+    "title": "Knowledge Quiz - Fundamentals of Azure AI Speech",
+    "type": "CONTENT"
+  },
+  {
+    "new": 212,
+    "legacy": 205,
+    "title": "Knowledge Quiz - Fundamentals of language translation",
+    "type": "CONTENT"
+  },
+  {
+    "new": 213,
+    "legacy": 206,
+    "title": "Topic 5 Explore Decision Support",
+    "type": "SECTION"
+  },
+  {
+    "new": 214,
+    "legacy": 207,
+    "title": "Anomaly Detection Boundaries",
+    "type": "CONTENT"
+  },
+  {
+    "new": 215,
+    "legacy": 208,
+    "title": "Data format",
+    "type": "CONTENT"
+  },
+  {
+    "new": 216,
+    "legacy": 209,
+    "title": "Choose Batch or Real-Time Detection",
+    "type": "CONTENT"
+  },
+  {
+    "new": 217,
+    "legacy": 210,
+    "title": "Batch Detection",
+    "type": "CONTENT"
+  },
+  {
+    "new": 218,
+    "legacy": 211,
+    "title": "Batch Detection Example",
+    "type": "CONTENT"
+  },
+  {
+    "new": 219,
+    "legacy": 212,
+    "title": "Real-time Detection",
+    "type": "CONTENT"
+  },
+  {
+    "new": 220,
+    "legacy": 213,
+    "title": "Real-time Detection Example",
+    "type": "CONTENT"
+  },
+  {
+    "new": 221,
+    "legacy": null,
+    "title": "Lab 09: Anomaly Evidence, Content Safety, Security, and Governance",
+    "type": "LAB"
+  },
+  {
+    "new": 222,
+    "legacy": 214,
+    "title": "Topic 6 Explore knowledge mining",
+    "type": "SECTION"
+  },
+  {
+    "new": 223,
+    "legacy": 215,
+    "title": "Azure AI Search",
+    "type": "CONTENT"
+  },
+  {
+    "new": 224,
+    "legacy": 216,
+    "title": "Understand Indexes",
+    "type": "CONTENT"
+  },
+  {
+    "new": 225,
+    "legacy": 217,
+    "title": "Index Schema",
+    "type": "CONTENT"
+  },
+  {
+    "new": 226,
+    "legacy": 218,
+    "title": "Index Attributes",
+    "type": "CONTENT"
+  },
+  {
+    "new": 227,
+    "legacy": 219,
+    "title": "Use an indexer to build an index",
+    "type": "CONTENT"
+  },
+  {
+    "new": 228,
+    "legacy": 220,
+    "title": "Knowledge Store",
+    "type": "CONTENT"
+  },
+  {
+    "new": 229,
+    "legacy": 221,
+    "title": "Create an index in the Azure portal",
+    "type": "CONTENT"
+  },
+  {
+    "new": 230,
+    "legacy": 222,
+    "title": "Query an Azure AI Search Index",
+    "type": "CONTENT"
+  },
+  {
+    "new": 231,
+    "legacy": 223,
+    "title": "Simple query requests",
+    "type": "CONTENT"
+  },
+  {
+    "new": 232,
+    "legacy": null,
+    "title": "Lab 07: Document Intelligence and Knowledge Mining",
+    "type": "LAB"
+  },
+  {
+    "new": 233,
+    "legacy": 224,
+    "title": "Knowledge Quiz - Fundamentals of Azure AI Document Intelligence",
+    "type": "CONTENT"
+  },
+  {
+    "new": 234,
+    "legacy": 225,
+    "title": "Knowledge Check \u00b7 Knowledge Mining and Azure AI Search",
+    "type": "CONTENT"
+  },
+  {
+    "new": 235,
+    "legacy": null,
+    "title": "Lab 10: AI-900 Capstone: End-to-End Azure AI Solution Review",
+    "type": "LAB"
+  },
+  {
+    "new": 236,
+    "legacy": 226,
+    "title": "Summary Q&A",
+    "type": "ADMIN"
+  },
+  {
+    "new": 237,
+    "legacy": 227,
+    "title": "Course Feedback and TRAQOM",
+    "type": "ADMIN"
+  },
+  {
+    "new": 238,
+    "legacy": 228,
+    "title": "Digital Attendance",
+    "type": "ADMIN"
+  },
+  {
+    "new": 239,
+    "legacy": 229,
+    "title": "Final Assessment",
+    "type": "ADMIN"
+  },
+  {
+    "new": 240,
+    "legacy": 230,
+    "title": "Recommended Courses",
+    "type": "ADMIN"
+  },
+  {
+    "new": 241,
+    "legacy": 231,
+    "title": "Support",
+    "type": "ADMIN"
+  },
+  {
+    "new": 242,
+    "legacy": 232,
+    "title": "Thank You!",
+    "type": "ADMIN"
+  }
+]

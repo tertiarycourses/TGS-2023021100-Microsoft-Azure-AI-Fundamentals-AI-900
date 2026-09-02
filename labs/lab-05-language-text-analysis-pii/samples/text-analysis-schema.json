@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "required": [
+    "row_id",
+    "language",
+    "summary",
+    "pii_redacted"
+  ],
+  "properties": {
+    "row_id": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "pii_redacted": {
+      "type": "string"
+    }
+  }
+}
