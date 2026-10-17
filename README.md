@@ -8,7 +8,7 @@ Build practical foundations for selecting, implementing and governing Microsoft 
 | Programme | WSQ |
 | Duration | 2 days / 16 training hours |
 | Level | Beginner |
-| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-microsoft-azure-ai-fundamentals-ai-900.html) |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-microsoft-azure-ai-fundamentals-ai-901.html) |
 | Funding | Up to 70% course-fee funding for eligible learners or employers; eligibility, verification and funding-period terms apply. |
 
 > Microsoft retired the AI-900 certification exam on 30 June 2026. This WSQ course retains its registered title and outcomes and teaches the technical foundations represented by the final blueprint using current Microsoft Foundry and Azure AI workflows.
